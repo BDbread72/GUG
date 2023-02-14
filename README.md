@@ -11,4 +11,4 @@ say normal [talker] [content]
 >>> talker : content
 
 say raw [content]
->>> content
+>>>content
